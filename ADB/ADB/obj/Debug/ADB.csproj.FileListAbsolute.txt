@@ -1,0 +1,16 @@
+C:\Users\phamg\source\repos\ADB\ADB\bin\Debug\ADB.exe.config
+C:\Users\phamg\source\repos\ADB\ADB\bin\Debug\ADB.exe
+C:\Users\phamg\source\repos\ADB\ADB\bin\Debug\ADB.pdb
+C:\Users\phamg\source\repos\ADB\ADB\obj\Debug\ADB.csproj.AssemblyReference.cache
+C:\Users\phamg\source\repos\ADB\ADB\obj\Debug\ADB.Properties.Resources.resources
+C:\Users\phamg\source\repos\ADB\ADB\obj\Debug\ADB.csproj.GenerateResource.cache
+C:\Users\phamg\source\repos\ADB\ADB\obj\Debug\ADB.csproj.CoreCompileInputs.cache
+C:\Users\phamg\source\repos\ADB\ADB\obj\Debug\ADB.exe
+C:\Users\phamg\source\repos\ADB\ADB\obj\Debug\ADB.pdb
+C:\Users\phamg\source\repos\ADB\ADB\bin\Debug\EntityFramework.dll
+C:\Users\phamg\source\repos\ADB\ADB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamg\source\repos\ADB\ADB\bin\Debug\EntityFramework.xml
+C:\Users\phamg\source\repos\ADB\ADB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamg\source\repos\ADB\ADB\obj\Debug\ADB.csproj.Up2Date
+C:\Users\phamg\source\repos\ADB\ADB\obj\Debug\ADB.DbContextService.resources
+C:\Users\phamg\source\repos\ADB\ADB\obj\Debug\ADB.Design.resources
