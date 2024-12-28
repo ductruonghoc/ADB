@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|solutionrelative:adb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|C:\\Users\\phamg\\source\\repos\\ADB\\adb\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|solutionrelative:adb\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|C:\\Users\\phamg\\source\\repos\\ADB\\adb\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|solutionrelative:adb\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|C:\\Users\\phamg\\source\\repos\\ADB\\adb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|solutionrelative:adb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|C:\\Users\\phamg\\source\\repos\\ADB\\adb\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|solutionrelative:adb\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|C:\\Users\\phamg\\source\\repos\\ADB\\adb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|solutionrelative:adb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|C:\\Users\\phamg\\source\\repos\\ADB\\adb\\design.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +27,8 @@
       "RelativeMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|solutionrelative:adb\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|C:\\Users\\phamg\\source\\repos\\ADB\\adb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|solutionrelative:adb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|C:\\Users\\phamg\\source\\repos\\ADB\\adb\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|solutionrelative:adb\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69664037-B376-438F-871F-8F1EE841B09F}|ADB\\ADB.csproj|C:\\Users\\phamg\\source\\repos\\ADB\\adb\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 258,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -86,16 +86,16 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\phamg\\source\\repos\\ADB\\ADB\\Form1.cs",
               "RelativeDocumentMoniker": "ADB\\Form1.cs",
-              "ToolTip": "C:\\Users\\phamg\\source\\repos\\ADB\\ADB\\Form1.cs*",
-              "RelativeToolTip": "ADB\\Form1.cs*",
-              "ViewState": "AgIAAOwBAAAAAAAAAAAkwP0BAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\phamg\\source\\repos\\ADB\\ADB\\Form1.cs",
+              "RelativeToolTip": "ADB\\Form1.cs",
+              "ViewState": "AgIAANUCAAAAAAAAAAAowOkCAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T10:01:37.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\phamg\\source\\repos\\ADB\\ADB\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "ADB\\Form1.Designer.cs",
@@ -116,20 +116,18 @@
               "RelativeToolTip": "ADB\\Design.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T14:14:02.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T14:14:02.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Design.cs [Design]",
               "DocumentMoniker": "C:\\Users\\phamg\\source\\repos\\ADB\\ADB\\Design.cs",
               "RelativeDocumentMoniker": "ADB\\Design.cs",
               "ToolTip": "C:\\Users\\phamg\\source\\repos\\ADB\\ADB\\Design.cs [Design]",
               "RelativeToolTip": "ADB\\Design.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T09:12:53.821Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-25T09:12:53.821Z"
             },
             {
               "$type": "Document",
@@ -139,10 +137,9 @@
               "RelativeDocumentMoniker": "ADB\\Design.Designer.cs",
               "ToolTip": "C:\\Users\\phamg\\source\\repos\\ADB\\ADB\\Design.Designer.cs",
               "RelativeToolTip": "ADB\\Design.Designer.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwA0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAYwNYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T12:39:02.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T12:39:02.783Z"
             },
             {
               "$type": "Document",
@@ -235,14 +232,14 @@
               "RelativeDocumentMoniker": "ADB\\Program.cs",
               "ToolTip": "C:\\Users\\phamg\\source\\repos\\ADB\\ADB\\Program.cs",
               "RelativeToolTip": "ADB\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T11:48:58.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\phamg\\source\\repos\\ADB\\ADB\\App.config",
               "RelativeDocumentMoniker": "ADB\\App.config",
@@ -250,8 +247,7 @@
               "RelativeToolTip": "ADB\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAwAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-24T10:10:41.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T10:10:41.175Z"
             },
             {
               "$type": "Document",
